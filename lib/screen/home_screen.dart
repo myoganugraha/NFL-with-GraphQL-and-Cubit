@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
       child: Scaffold(
         appBar: AppBar(
           title: Text(
-            'Flutter w/ GraphQL',
+            'Flutter w/ GraphQL & BLoC',
             style: TextStyle(color: Colors.black),
           ),
           backgroundColor: Colors.white,
